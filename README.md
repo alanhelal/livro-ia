@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="[URL_DA_IMAGEM_DA_CAPA_DO_LIVRO]" alt="Capa do Livro" width="300"/>
+  <img src="https://github.com/alanhelal/livro-ia/blob/main/capa_completa.png" alt="Capa do Livro" width="300"/>
 </p>
 
 ## Sobre o Livro
