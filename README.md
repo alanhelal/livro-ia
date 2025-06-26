@@ -24,7 +24,7 @@ Obrigado pelo seu interesse! Você pode adquirir sua cópia do livro no seguinte
 
 Este repositório contém o notebook principal do Google Colab com **todo o código-fonte** apresentado no livro. O notebook é organizado por capítulos, permitindo que você acompanhe a leitura e execute os exemplos práticos em tempo real, sem a necessidade de instalar nada em sua máquina.
 
-* **[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_PARA_SEU_NOTEBOOK_NO_COLAB](https://colab.research.google.com/drive/1tPIznNiyjZ9MDbe8a2PD3sQJxlcMe4nv#scrollTo=OGfeh2Uk7wQf))**
+* **[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tPIznNiyjZ9MDbe8a2PD3sQJxlcMe4nv#scrollTo=OGfeh2Uk7wQf)**
 
 ## Como Usar
 
