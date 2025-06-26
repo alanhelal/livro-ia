@@ -18,7 +18,7 @@ Este livro foi escrito para estudantes, desenvolvedores e entusiastas que deseja
 
 Obrigado pelo seu interesse! Você pode adquirir sua cópia do livro no seguinte link:
 
-* **[Link da Amazon (Versão Kindle)](https://www.amazon.com.br/SEU_LIVRO_AQUI)**
+* **[Link da Amazon (Versão Kindle)](https://www.amazon.com.br/dp/B0FFN35R12)**
 
 ## Conteúdo do Repositório
 
